@@ -1,4 +1,5 @@
 # MengqiHu-dissertation
+# The TSA_max_min_mean.xlsx file contains the calculated 100000 TAS daily max, min and mean data from the CLUM output. The corresponding code is ERP_max_min_mean.ipynb
 #·The TSA_max_min_mean.xlsx file contains the calculated 100000 TAS daily max, min and mean data from the CLUM output. The corresponding code is ERP_max_min_mean.ipynb
 #·The ERP_autoML.ipynb is the code for train the model using FLAML, the corresponding model is save as ERP_automl_model.pkl 
 #·The ERP_ML_MLP.ipynb is the code for train the DL model using MLP, the corresponding model is save as ERP_mlp_regressor.pth 
